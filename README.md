@@ -1,6 +1,6 @@
 - 👋 Hi 👋, I'm Raabee
 - 👀 I’m interested in reading speaking 
-- 🌱 I’m currently learning web
+- 🌱 Currently working at [W3developer](https://w3developers.com.np/)
 - 💞️ I’m looking to collaborate on big IT company
 - 📫 How to reach me find me
 - 😄 Pronouns: raa
