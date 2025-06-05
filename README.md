@@ -14,7 +14,7 @@ A passionate Full Stack Developer constantly learning and building impactful app
 ---
 
 ### 🔭 Currently Working On
-- [W3developer](https://w3developers.com.np/)]
+- [W3developer](https://w3developers.com.np/)
 
 ### 🌱 Currently Learning
 - Laravel, Vue.js, Advanced JavaScript
